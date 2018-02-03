@@ -8,4 +8,4 @@ Available links:
  
  ---
  
- #### [Maintained at](https://itsn1x.github.io/MEE499)
+ #### [Maintained at](https://github.com/MEE499)
